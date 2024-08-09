@@ -1,6 +1,6 @@
 # 📊 `DESAFIO:` Previsão de Estoque Inteligente na AWS com [SageMaker Canvas](https://aws.amazon.com/pt/sagemaker/canvas/)
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUÍDO&color=GREEN&style=for-the-badge)
+![Badge Status](http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUÍDO&color=GREEN&style=for-the-badge)
 
 Bem-vindo ao desafio de projeto "Previsão de Estoque Inteligente na AWS com SageMaker Canvas. 
 Esse desafio foi fornecido pela Plataforma DIO com o objetivo de testar os conhecimentos adquiridos no Bootcamp Nexa - Machine Learning para Iniciantes na AWS. 💭
